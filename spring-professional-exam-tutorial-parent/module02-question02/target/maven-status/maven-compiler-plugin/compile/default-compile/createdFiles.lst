@@ -1,0 +1,13 @@
+com\spring\professional\exam\tutorial\module02\question02\aspects\CurrenciesRepositoryAspect.class
+com\spring\professional\exam\tutorial\module02\question02\Runner.class
+com\spring\professional\exam\tutorial\module02\question02\aspects\CurrencyServiceAspect.class
+com\spring\professional\exam\tutorial\module02\question02\ApplicationConfiguration.class
+com\spring\professional\exam\tutorial\module02\question02\annotations\Secured.class
+com\spring\professional\exam\tutorial\module02\question02\bls\CurrenciesRepositoryImpl.class
+com\spring\professional\exam\tutorial\module02\question02\ds\CurrencyId.class
+com\spring\professional\exam\tutorial\module02\question02\annotations\InTransaction.class
+com\spring\professional\exam\tutorial\module02\question02\annotations\Validated.class
+com\spring\professional\exam\tutorial\module02\question02\aspects\AlternativeCurrenciesRepositoryAspect.class
+com\spring\professional\exam\tutorial\module02\question02\bls\CurrencyService.class
+com\spring\professional\exam\tutorial\module02\question02\bls\AlternativeCurrenciesRepository.class
+com\spring\professional\exam\tutorial\module02\question02\bls\CurrenciesRepository.class
