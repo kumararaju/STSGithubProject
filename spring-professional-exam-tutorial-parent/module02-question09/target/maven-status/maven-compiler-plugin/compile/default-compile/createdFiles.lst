@@ -1,0 +1,5 @@
+com\spring\professional\exam\tutorial\module02\question09\ApplicationConfiguration.class
+com\spring\professional\exam\tutorial\module02\question09\aspects\SanitizeAspect.class
+com\spring\professional\exam\tutorial\module02\question09\Runner.class
+com\spring\professional\exam\tutorial\module02\question09\annotation\Sanitize.class
+com\spring\professional\exam\tutorial\module02\question09\beans\TransactionHistoryServiceClient.class
